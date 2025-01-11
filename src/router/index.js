@@ -1,7 +1,5 @@
-// src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router';
 
-// Importar componentes renombrados
 import HomePage from '@/components/HomePage.vue';
 import GuidesPage from '@/components/GuidesPage.vue';
 import ResortsPage from '@/components/ResortsPage.vue';

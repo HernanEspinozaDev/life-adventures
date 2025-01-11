@@ -1,4 +1,3 @@
-<!-- src/components/ResortsPage.vue -->
 <template>
   <div class="container mt-5">
     <h1 class="mb-4">Resorts</h1>
@@ -76,5 +75,4 @@ export default {
 </script>
 
 <style scoped>
-/* Estilos específicos para ResortsPage.vue si es necesario */
 </style>
