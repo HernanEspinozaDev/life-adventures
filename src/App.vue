@@ -1,26 +1,29 @@
+<!-- src/App.vue -->
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <MainNavbar />
+    <main>
+      <router-view />
+    </main>
+    <!-- Incluir el nuevo FooterPage -->
+    <FooterPage />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainNavbar from '@/components/MainNavbar.vue';
+import FooterPage from '@/components/FooterPage.vue'; // Importar FooterPage
 
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  components: { MainNavbar, FooterPage }, // Registrar FooterPage
+  created() {
+    this.$store.dispatch('loadResorts');
+    this.$store.dispatch('loadGuides');
+    this.$store.dispatch('loadCities');
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+/* Estilos globales si es necesario */
 </style>

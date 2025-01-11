@@ -1,0 +1,284 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Lidia",
+                "last": "Ferrer"
+            },
+            "location": {
+                "city": "Talavera de la Reina",
+                "state": "Comunidad Valenciana",
+                "country": "Spain"
+            },
+            "email": "lidia.ferrer@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/91.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+            },
+            "specialties": ["History", "Gastronomy"],
+            "languages": ["Spanish", "English", "French"],
+            "experience": 15,
+            "licenses": ["Official Tourism Guide", "Lifeguard"],
+            "ratings": {
+                "stars": 4.8,
+                "reviews": 120
+            },
+            "resort_id":1
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Josefina",
+                "last": "Carrasco"
+            },
+            "location": {
+                "city": "Guadalajara",
+                "state": "Castilla la Mancha",
+                "country": "Spain"
+            },
+            "email": "josefina.carrasco@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/64.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+            },
+            "specialties": ["Nature", "Adventure", "Photography"],
+            "languages": ["Spanish", "English", "German"],
+            "experience": 8,
+            "licenses": ["Official Tourism Guide", "Wilderness First Responder"],
+            "ratings": {
+                "stars": 4.5,
+                "reviews": 85
+            },
+            "resort_id":2
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Cristina",
+                "last": "Lorenzo"
+            },
+            "location": {
+                "city": "Talavera de la Reina",
+                "state": "Comunidad Valenciana",
+                "country": "Spain"
+            },
+            "email": "cristina.lorenzo@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/51.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+            },
+            "specialties": ["Culture", "Art", "Architecture"],
+            "languages": ["Spanish", "English", "Italian"],
+            "experience": 20,
+            "licenses": ["Official Tourism Guide", "Archaeology Permit"],
+            "ratings": {
+                "stars": 5.0,
+                "reviews": 250
+            },
+            "resort_id":3
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Hredhaan",
+                "last": "Namnaik"
+            },
+            "location": {
+                "city": "Hosur",
+                "state": "Rajasthan",
+                "country": "India"
+            },
+            "email": "hredhaan.namnaik@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/32.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+            },
+            "specialties": ["Wine Tourism", "Gastronomy", "Local Crafts"],
+            "languages": ["Spanish", "English", "Portuguese"],
+            "experience": 12,
+            "licenses": ["Official Tourism Guide", "Sommelier"],
+            "ratings": {
+                "stars": 4.7,
+                "reviews": 100
+            },
+            "resort_id":4
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Yatan",
+                "last": "Shenoy"
+            },
+            "location": {
+                "city": "Pimpri-Chinchwad",
+                "state": "Daman and Diu",
+                "country": "India"
+            },
+            "email": "yatan.shenoy@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/99.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+            },
+            "specialties": ["Diving", "Snorkeling", "Marine Biology"],
+            "languages": ["Spanish", "English", "Japanese"],
+            "experience": 15,
+            "licenses": ["Official Tourism Guide", "PADI Divemaster"],
+            "ratings": {
+                "stars": 4.9,
+                "reviews": 180
+            },
+            "resort_id":5
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Chaitra",
+                "last": "Gatty"
+            },
+            "location": {
+                "city": "Sambhal",
+                "state": "Daman and Diu",
+                "country": "India"
+            },
+            "email": "chaitra.gatty@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+            },
+            "specialties": ["Hiking", "Camping", "Mountain Biking"],
+            "languages": ["Spanish", "English", "Mandarin"],
+            "experience": 10,
+            "licenses": ["Official Tourism Guide", "Wilderness First Aid"],
+            "ratings": {
+                "stars": 4.6,
+                "reviews": 95
+            },
+            "resort_id":6
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Brianna",
+                "last": "Harper"
+            },
+            "location": {
+                "city": "Devonport",
+                "state": "New South Wales",
+                "country": "Australia"
+            },
+            "email": "brianna.harper@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/35.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+            },
+            "specialties": ["History", "Literature", "Music"],
+            "languages": ["Spanish", "English", "French", "Russian"],
+            "experience": 25,
+            "licenses": ["Official Tourism Guide", "Museum Educator"],
+            "ratings": {
+                "stars": 4.8,
+                "reviews": 300
+            },
+            "resort_id":7
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Madame",
+                "first": "Liliana",
+                "last": "Lecomte"
+            },
+            "location": {
+                "city": "Oppligen",
+                "state": "Ticino",
+                "country": "Switzerland"
+            },
+            "email": "liliana.lecomte@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/54.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+            },
+            "specialties": ["Food Tours", "Nightlife", "Festivals"],
+            "languages": ["Spanish", "English", "Arabic"],
+            "experience": 7,
+            "licenses": ["Official Tourism Guide", "Food Safety Certification"],
+            "ratings": {
+                "stars": 4.4,
+                "reviews": 70
+            },
+            "resort_id":7
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Monsieur",
+                "first": "Patric",
+                "last": "Moreau"
+            },
+            "location": {
+                "city": "Roche (Vd)",
+                "state": "Jura",
+                "country": "Switzerland"
+            },
+            "email": "patric.moreau@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/40.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+            },
+            "specialties": ["Travel Photography", "Nature", "Wildlife"],
+            "languages": ["Spanish", "English", "Portuguese"],
+            "experience": 10,
+            "licenses": ["Official Tour Guide", "Wilderness First Aid Certificate"],
+            "ratings": {
+                "stars": 4.7,
+                "reviews": 150
+            },
+            "resort_id":6
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Alma",
+                "last": "Vega"
+            },
+            "location": {
+                "city": "Madrid",
+                "state": "Madrid",
+                "country": "Spain"
+            },
+            "email": "alma.vega@example.com",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/73.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+            },
+            "specialties": ["Wine Tasting", "Food Tours"],
+            "languages": ["Spanish", "English"],
+            "experience": 18,
+            "licenses": ["Official Tourism Guide", "Sommelier"],
+            "ratings": {
+                "stars": 4.9,
+                "reviews": 150
+            },
+            "resort_id":5
+        }
+    ]
+}

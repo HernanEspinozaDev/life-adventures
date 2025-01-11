@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "city": "Miami"
+    },
+    {
+        "id":2,
+        "city": "Whistler"
+    },
+    {
+        "id":3,
+        "city": "Cancún"
+    },
+    {
+        "id":4,
+        "city": "Lake Tahoe"
+    },
+    {
+        "id":5,
+        "city": "Playa del Carmen"
+    },
+    {
+        "id":6,
+        "city": "Yellowstone National Park"
+    },
+    {
+        "id":7,
+        "city": "Jackson Hole"
+    }
+]

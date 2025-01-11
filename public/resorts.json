@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Beach Resort",
+        "city": "Miami",
+        "country": "United States",
+        "stars": 5,
+        "price_per_night": 250,
+        "amenities": ["pool", "spa", "gym", "restaurant"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/33/e1/21/grand-beach-hotel-miami.jpg?w=1000&h=-1&s=1",
+        "tours":10,
+        "guides":1
+    },
+    {
+        "id": 2,
+        "name": "Mountain Adventure Lodge",
+        "city": "Whistler",
+        "country": "Canada",
+        "stars": 4,
+        "price_per_night": 180,
+        "amenities": ["skiing", "snowboarding", "hiking", "hot tub"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/ae/91/34/portezuelo-del-viento.jpg?w=1200&h=-1&s=1",
+        "tours":7,
+        "guides":1
+      },
+      {
+        "id": 3,
+        "name": "Sun Palace Resort",
+        "city": "Cancún",
+        "country": "Mexico",
+        "stars": 4.5,
+        "price_per_night": 300,
+        "amenities": ["pool", "spa", "gym", "restaurant", "kids club"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ec/d9/6f/sun-palace-hotel.jpg?w=700&h=-1&s=1",
+        "tours":8,
+        "guides":1
+        },
+        {
+        "id": 4,
+        "name": "Alpine Meadows",
+        "city": "Lake Tahoe",
+        "country": "United States",
+        "stars": 4,
+        "price_per_night": 220,
+        "amenities": ["skiing", "snowboarding", "hiking", "fishing", "boat rentals"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7a/00/0a/alpine-meadows-resort.jpg?w=600&h=-1&s=1",
+        "tours":17,
+        "guides":1
+        },
+        {
+        "id": 5,
+        "name": "Golden Sands Resort",
+        "city": "Playa del Carmen",
+        "country": "Mexico",
+        "stars": 5,
+        "price_per_night": 450,
+        "amenities": ["private beach", "infinity pool", "spa", "water sports", "multiple restaurants"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cc/15/0c/golden-sands-resort-motel.jpg?w=1200&h=-1&s=1",
+        "tours":13,
+        "guides":2
+        },
+        {
+        "id": 6,
+        "name": "Black Bear Lodge",
+        "city": "Yellowstone National Park",
+        "country": "United States",
+        "stars": 3.5,
+        "price_per_night": 150,
+        "amenities": ["cabins", "campground", "fishing", "hiking", "wildlife viewing"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/ad/cc/b7/courtyard-area.jpg?w=1000&h=-1&s=1",
+        "tours":19,
+        "guides":2
+        },
+        {
+        "id": 7,
+        "name": "Riverdale Ranch",
+        "city": "Jackson Hole",
+        "country": "United States",
+        "stars": 4.5,
+        "price_per_night": 280,
+        "amenities": [" horseback riding", "fishing", "hiking", "camping", "dude ranch activities"],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/34/4f/e8/outside.jpg?w=1200&h=-1&s=1",
+        "tours":30,
+        "guides":2
+        }
+
+]
